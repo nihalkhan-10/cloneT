@@ -4,8 +4,6 @@ region = "us-west-1";
 
 accessKeyId = "default";
 
-in
-
 { machine = { config, pkgs, resources, ... }: {
 
 deployment = {
